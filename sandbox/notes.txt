@@ -1,0 +1,4 @@
+Biljeske sa sastanka:
+- Projekat B3 treba predati do petka.
+- Agent koristi samo jedan alat: read_file.
+- Svi fajlovi za citanje nalaze se u folderu sandbox.
